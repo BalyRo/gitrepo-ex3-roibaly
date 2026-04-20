@@ -4,7 +4,8 @@ public class Hello {
         for (i = 1; i <= 10; i++)
         {
             System.out.println("Not Hello World..."+ i );
-            System.out.println("things has change now.....");
+            System.out.println("again");
+            System.out.println("things has change now .....");
         }
     }
 }
